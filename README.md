@@ -26,7 +26,9 @@ To run the codes on the entire data set, delete line 19 of the projects' code
 # How It Works
 
 ## 1.	Data Preprocessing
+
 o	Loads nb_score.csv.
+
 o	Subsets the dataset (first 100 rows used for demonstration).
 
 o	Converts scores into binary classes (above 90 and below 90).
